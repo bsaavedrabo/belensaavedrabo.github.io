@@ -30,3 +30,11 @@ ul {
     color: #000;
   }
 
+  .title{
+    font-family: 'Manrope', sans-serif;
+    text-align: center;
+  }
+
+  .container{
+    font-family: 'Manrope', sans-serif;
+  }
